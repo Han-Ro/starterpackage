@@ -14,3 +14,7 @@ LazyData: true
 URL: https://github.com/HanR2019/starterpackage
 BugReports: https://github.com/HanR2019/starterpackage/issues
 RoxygenNote: 7.0.2
+Imports: 
+    ggplot2,
+    magrittr,
+    stats

@@ -5,6 +5,7 @@
 #' @return number
 #' @export
 #'
+#'
 #' @examples
 #' standard_error(rnorm(20))
 standard_error <- function(n){
