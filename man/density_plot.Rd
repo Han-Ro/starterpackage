@@ -7,7 +7,7 @@
 density_plot(v)
 }
 \arguments{
-\item{v}{}
+\item{v}{numeric vector}
 }
 \value{
 graph
