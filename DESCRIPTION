@@ -13,3 +13,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/HanR2019/starterpackage
 BugReports: https://github.com/HanR2019/starterpackage/issues
+RoxygenNote: 7.0.2
