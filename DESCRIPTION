@@ -1,14 +1,14 @@
 Package: starterpackage
-Title: What the Package Does (One Line, Title Case)
+Title: Simple utilities for a large sample
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Hannah",
+           family = "Clark",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "hrc540@york.ac.uk",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
-License: What license it uses
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/HanR2019/starterpackage
